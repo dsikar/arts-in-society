@@ -1,0 +1,11 @@
+The device consists of two stepper motors, with timing belts attached
+to a spray can, the valve being engaged by a servo motor. By winding and unwinding
+the timing belts, the spray
+can moves in an X Y coordinate system, 
+
+The device was commissioned by a tv company (CNBC), for a series
+portraying cloud connected devices (The Cloud Challenge). If further
+funding was made available, I would be looking at increasing the
+working area with larger stepper motors and stronger timing belts, and
+also using 3 (RGB) or 4 (CMYK) cans, instead of the original single
+spray can.
